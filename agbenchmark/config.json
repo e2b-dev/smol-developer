@@ -1,0 +1,5 @@
+{
+  "workspace": "generated",
+  "api_mode": true,
+  "host": "http://localhost:8000"
+}
